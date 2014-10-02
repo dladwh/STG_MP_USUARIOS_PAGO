@@ -1,0 +1,1 @@
+grant select on DW_STG.STG_MP_USUARIOS_PAGO to DW_LOAD;
